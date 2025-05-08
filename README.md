@@ -50,25 +50,31 @@ react-websocket-chat-app/
 
 
 git clone https://github.com/your-username/react-websocket-chat-app.git
-cd react-websocket-chat-app
 
+cd react-websocket-chat-app
 
 
 2. Start the WebSocket Server
 
 
 cd chat-server
+
 npm install
+
 node server.js
 
 The WebSocket server will run on ws://localhost:8080.
 
 3. Start the React Frontend
+4. 
 In another terminal:
 
 cd chat-client
+
 npm install
+
 npm start
+
 Then open: http://localhost:3000
 
 ## 🔧 Technologies Used
