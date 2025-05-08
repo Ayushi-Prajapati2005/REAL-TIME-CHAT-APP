@@ -89,5 +89,9 @@ Inline Styling (WhatsApp-like layout)
 ## 📷 Screenshot
 
 
+![Image](https://github.com/user-attachments/assets/e81b52b2-560b-41b9-99d4-6d4e5e62b528)
+
+![Image](https://github.com/user-attachments/assets/1c84cd07-2973-4119-b7ce-ea924c45867d)
+![Image](https://github.com/user-attachments/assets/56574c3d-00fb-44d7-b89e-3d882d7fc00a)
 
 
