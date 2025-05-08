@@ -66,7 +66,6 @@ node server.js
 The WebSocket server will run on ws://localhost:8080.
 
 3. Start the React Frontend
-4. 
 In another terminal:
 
 cd chat-client
