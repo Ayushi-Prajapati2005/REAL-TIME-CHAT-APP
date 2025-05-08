@@ -53,9 +53,8 @@ react-websocket-chat-app/
 git clone https://github.com/your-username/react-websocket-chat-app.git
 cd react-websocket-chat-app
 
-```C
-
 2. Start the WebSocket Server
+ls -l
 
 cd chat-server
 npm install
