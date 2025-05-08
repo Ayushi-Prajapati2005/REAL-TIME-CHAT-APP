@@ -53,7 +53,7 @@ react-websocket-chat-app/
 git clone https://github.com/your-username/react-websocket-chat-app.git
 cd react-websocket-chat-app
 
-```bash
+```C
 
 2. Start the WebSocket Server
 
