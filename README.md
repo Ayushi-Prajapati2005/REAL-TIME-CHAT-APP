@@ -46,13 +46,13 @@ react-websocket-chat-app/
 
 ## 🧑‍💻 How to Run the App
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/react-websocket-chat-app.git
 cd react-websocket-chat-app
 
-2. Start the WebSocket Server
+## 2. Start the WebSocket Server
 
 cd chat-server
 npm install
