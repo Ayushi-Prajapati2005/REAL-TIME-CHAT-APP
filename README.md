@@ -1,17 +1,5 @@
 # REAL-TIME-CHAT-APP
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: Prajapati Ayushi Bhaveshkumar
-
-INTERN ID: CT04DA46
-
-DOMAIN: Frontend Web Development
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
 # discription
 
 # 💬 React WebSocket Chat App (WhatsApp Style)
